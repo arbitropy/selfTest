@@ -1,3 +1,5 @@
+here is a conflict test
 
+dsfas
 
-Trying conflict
+here is another conflict test
